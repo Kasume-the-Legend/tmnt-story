@@ -4,7 +4,7 @@ Usage: python tm_update.py [game_folder] [--url https://tmnt-story.<you>.workers
 The game reads these loose files before the ones inside the .pak, and falls back to the
 built-in pool whenever a file is missing - so deleting data/ removes the updates safely."""
 import json, os, sys, urllib.request
-URL = "https://tmnt-story.YOUR-SUBDOMAIN.workers.dev"
+URL = "https://tmnt-story.acoffey412.workers.dev"
 args = [a for a in sys.argv[1:]]
 if "--url" in args:
     i = args.index("--url"); URL = args[i + 1]; del args[i:i + 2]

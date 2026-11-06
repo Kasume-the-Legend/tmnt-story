@@ -1,5 +1,5 @@
 # Turtle Mania story updater (Windows, no install needed). Put next to the game exe.
-$Url  = "https://tmnt-story.YOUR-SUBDOMAIN.workers.dev"
+$Url  = "https://tmnt-story.acoffey412.workers.dev"
 $Root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $VFile = Join-Path $Root "tm_story_version.txt"
 $since = 0
