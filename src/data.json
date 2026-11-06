@@ -1,0 +1,8224 @@
+{
+"pools": {
+"ambush": {
+"kind": "ambush",
+"stage": null,
+"hero": null,
+"speakers": {
+"foot": "FOOT NINJA"
+},
+"seeds": [
+[
+"foot",
+"FOOT NINJA",
+"Intruders! Sound the alarm!",
+"",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"The turtles are here.",
+"Attack!",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"You cannot pass. Surround",
+"them!",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Master Shredder will be",
+"pleased.",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Take them! No mercy!",
+"",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Fools. Did you think we",
+"would not be waiting?",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Foot Clan! To arms!",
+"",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Find them! They are close!",
+"",
+""
+]
+]
+},
+"brief_apartment": {
+"kind": "brief",
+"stage": "apartment",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"April's building and clear",
+"every floor. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Bebop and Rocksteady has",
+"moved against us. April's",
+"building must not fall."
+],
+[
+"casey",
+"CASEY",
+"Bad news - April's building",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in",
+"April's building. Bebop and",
+"Rocksteady again. Ugh."
+]
+]
+},
+"brief_battleship": {
+"kind": "brief",
+"stage": "battleship",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the battleship and seize",
+"the helm. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Dirtbag and Groundchuck has",
+"moved against us. The",
+"battleship must not fall."
+],
+[
+"april",
+"APRIL",
+"Heads up. Pirate crews just",
+"locked down the battleship.",
+"You need to seize the helm."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the battleship",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"battleship. Dirtbag and",
+"Groundchuck again. Ugh."
+]
+]
+},
+"brief_beach": {
+"kind": "brief",
+"stage": "beach",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"beach. Armaggon is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the beach and end the time",
+"loop. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Armaggon has moved against",
+"us. The beach must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the beach. Whatever is",
+"there, it is big."
+],
+[
+"april",
+"APRIL",
+"I got eyes on the beach.",
+"Foot divers everywhere and",
+"Armaggon running the show."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the beach. Armaggon is",
+"behind it."
+],
+[
+"april",
+"APRIL",
+"Heads up. Foot divers just",
+"locked down the beach. You",
+"need to end the time loop."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"beach is crawling and",
+"Armaggon is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the beach is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"beach. Armaggon again. Ugh.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Armaggon has moved against",
+"us. The beach must not",
+"fall. As the sirens wail."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"beach. Armaggon again. Ugh.",
+"In the pouring rain."
+]
+]
+},
+"brief_construction": {
+"kind": "brief",
+"stage": "construction",
+"hero": null,
+"speakers": {
+"casey": "CASEY"
+},
+"seeds": [
+[
+"casey",
+"CASEY",
+"Bad news - the construction",
+"yard is a mess. Good news -",
+"I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"construction yard. Rahzar",
+"and Tokka again. Ugh."
+]
+]
+},
+"brief_dimx": {
+"kind": "brief",
+"stage": "dimx",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in",
+"Dimension X. Antrax is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"Dimension X and stop the",
+"invasion. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Antrax has moved against",
+"us. Dimension X must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near Dimension X. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over Dimension X. Antrax is",
+"behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill.",
+"Dimension X is crawling and",
+"Antrax is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - Dimension X is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Word on the street: Antrax",
+"is holed up in Dimension X.",
+"Time to stop the invasion."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in",
+"Dimension X. Antrax again.",
+"Ugh."
+],
+[
+"splinter",
+"SPLINTER",
+"Antrax has moved against",
+"us. Dimension X must not",
+"fall. In the dead of night."
+]
+]
+},
+"brief_dojo": {
+"kind": "brief",
+"stage": "dojo",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"old dojo. The Shogun is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the old dojo and reclaim",
+"the dojo. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"The Shogun has moved",
+"against us. The old dojo",
+"must not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the old dojo. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the old dojo. The",
+"Shogun is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"old dojo is crawling and",
+"the Shogun is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the old dojo is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"old dojo. The Shogun again.",
+"Ugh."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"old dojo. The Shogun again.",
+"Ugh. In the pouring rain."
+]
+]
+},
+"brief_foothideout": {
+"kind": "brief",
+"stage": "foothideout",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the Foot hideout and smash",
+"the lab. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Baxter Stockman has moved",
+"against us. The Foot",
+"hideout must not fall."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the Foot hideout",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"Foot hideout. Baxter",
+"Stockman again. Ugh."
+]
+]
+},
+"brief_junkyard": {
+"kind": "brief",
+"stage": "junkyard",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"junkyard. Rahzar and Tokka",
+"is no ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the junkyard and cut their",
+"supply line. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Rahzar and Tokka has moved",
+"against us. The junkyard",
+"must not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the junkyard. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the junkyard. Rahzar",
+"and Tokka is behind it."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the junkyard is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"junkyard. Rahzar and Tokka",
+"again. Ugh."
+]
+]
+},
+"brief_krangcity": {
+"kind": "brief",
+"stage": "krangcity",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in",
+"Krang City. Krang is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"Krang has moved against us.",
+"Krang City must not fall.",
+""
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near Krang City. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"I got eyes on Krang City.",
+"Krang androids everywhere",
+"and Krang running the show."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over Krang City. Krang is",
+"behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. Krang",
+"City is crawling and Krang",
+"is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - Krang City is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in",
+"Krang City. Krang again.",
+"Ugh."
+],
+[
+"splinter",
+"SPLINTER",
+"Krang has moved against us.",
+"Krang City must not fall.",
+"In the dead of night."
+]
+]
+},
+"brief_mall": {
+"kind": "brief",
+"stage": "mall",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"mall. The Triceraton is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the mall and free the",
+"hostages. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"The Triceraton has moved",
+"against us. The mall must",
+"not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the mall. Whatever is",
+"there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the mall. The",
+"Triceraton is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"mall is crawling and the",
+"Triceraton is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the mall is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"mall. The Triceraton again.",
+"Ugh."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"mall. The Triceraton again.",
+"Ugh. As the sirens wail."
+]
+]
+},
+"brief_ratking": {
+"kind": "brief",
+"stage": "ratking",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"lower tunnels. The Rat King",
+"is no ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the lower tunnels and break",
+"the swarm. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"The Rat King has moved",
+"against us. The lower",
+"tunnels must not fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the lower tunnels. The",
+"Rat King is behind it."
+],
+[
+"april",
+"APRIL",
+"Heads up. Rats just locked",
+"down the lower tunnels. You",
+"need to break the swarm."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"lower tunnels. The Rat King",
+"again. Ugh."
+]
+]
+},
+"brief_rooftop2": {
+"kind": "brief",
+"stage": "rooftop2",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the rooftops and ground the",
+"copter. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Bebop and Rocksteady has",
+"moved against us. The",
+"rooftops must not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the rooftops. Whatever",
+"is there, it is big."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the rooftops is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"rooftops. Bebop and",
+"Rocksteady again. Ugh."
+]
+]
+},
+"brief_rooftops": {
+"kind": "brief",
+"stage": "rooftops",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"rooftops. Slash is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the rooftops and take back",
+"the skyline. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Slash has moved against us.",
+"The rooftops must not fall.",
+""
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the rooftops. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"I got eyes on the rooftops.",
+"Foot ninjas everywhere and",
+"Slash running the show."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the rooftops. Slash is",
+"behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"rooftops is crawling and",
+"Slash is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the rooftops is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"rooftops. Slash again. Ugh.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Slash has moved against us.",
+"The rooftops must not fall.",
+"Under a blood-red moon."
+]
+]
+},
+"brief_sewers": {
+"kind": "brief",
+"stage": "sewers",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"sewers. The Pizza Monster",
+"is no ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the sewers and clear the",
+"tunnels. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"The Pizza Monster has moved",
+"against us. The sewers must",
+"not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the sewers. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the sewers. The Pizza",
+"Monster is behind it."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the sewers is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"sewers. The Pizza Monster",
+"again. Ugh."
+]
+]
+},
+"brief_shredder": {
+"kind": "brief",
+"stage": "shredder",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Shredder has moved",
+"against us. The Shredder's",
+"tower must not fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the Shredder's tower.",
+"The Shredder is behind it."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the Shredder's",
+"tower is a mess. Good news",
+"- I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"Shredder's tower. The",
+"Shredder again. Ugh."
+]
+]
+},
+"brief_snow": {
+"kind": "brief",
+"stage": "snow",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"snowfield. Tora is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the snowfield and follow",
+"the tracks. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Tora has moved against us.",
+"The snowfield must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the snowfield. Tora is",
+"behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"snowfield is crawling and",
+"Tora is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the snowfield is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Word on the street: Tora is",
+"holed up in the snowfield.",
+"Time to follow the tracks."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"snowfield. Tora again. Ugh.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Tora has moved against us.",
+"The snowfield must not",
+"fall. In the dead of night."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"snowfield. Tora again. Ugh.",
+"In the pouring rain."
+]
+]
+},
+"brief_subway": {
+"kind": "brief",
+"stage": "subway",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"subway. The Shogun is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the subway and restore the",
+"line. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"The Shogun has moved",
+"against us. The subway must",
+"not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the subway. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the subway. The Shogun",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"Heads up. Foot ninjas just",
+"locked down the subway. You",
+"need to restore the line."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"subway is crawling and the",
+"Shogun is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the subway is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"subway. The Shogun again.",
+"Ugh."
+]
+]
+},
+"brief_swamps": {
+"kind": "brief",
+"stage": "swamps",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"swamp. Leatherhead is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the swamp and find our",
+"friend. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Leatherhead has moved",
+"against us. The swamp must",
+"not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the swamp. Whatever is",
+"there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the swamp. Leatherhead",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"swamp is crawling and",
+"Leatherhead is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the swamp is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"swamp. Leatherhead again.",
+"Ugh."
+]
+]
+},
+"brief_tit_alley": {
+"kind": "brief",
+"stage": "tit_alley",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"back alleys. Slash is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the back alleys and clear",
+"the alley. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Slash has moved against us.",
+"The back alleys must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the back alleys. Slash",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"back alleys is crawling and",
+"Slash is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the back alleys",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"back alleys. Slash again.",
+"Ugh."
+],
+[
+"splinter",
+"SPLINTER",
+"Slash has moved against us.",
+"The back alleys must not",
+"fall. In the pouring rain."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"back alleys. Slash again.",
+"Ugh. In the dead of night."
+]
+]
+},
+"brief_tit_arena": {
+"kind": "brief",
+"stage": "tit_arena",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Shredder has moved",
+"against us. The Technodrome",
+"arena must not fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the Technodrome arena.",
+"The Shredder is behind it."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the Technodrome",
+"arena is a mess. Good news",
+"- I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"Technodrome arena. The",
+"Shredder again. Ugh."
+]
+]
+},
+"brief_tit_bigapple": {
+"kind": "brief",
+"stage": "tit_bigapple",
+"hero": null,
+"speakers": {
+"casey": "CASEY"
+},
+"seeds": [
+[
+"casey",
+"CASEY",
+"Bad news - the Big Apple at",
+"3 AM is a mess. Good news -",
+"I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"Big Apple at 3 AM. Bebop",
+"and Rocksteady again. Ugh."
+]
+]
+},
+"brief_tit_prehist": {
+"kind": "brief",
+"stage": "tit_prehist",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"The Triceraton has moved",
+"against us. The prehistoric",
+"swamp must not fall."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the prehistoric",
+"swamp is a mess. Good news",
+"- I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"prehistoric swamp. The",
+"Triceraton again. Ugh."
+]
+]
+},
+"brief_tit_sewersurf": {
+"kind": "brief",
+"stage": "tit_sewersurf",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"flooded tunnels. The Rat",
+"King is no ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Rat King has moved",
+"against us. The flooded",
+"tunnels must not fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the flooded tunnels.",
+"The Rat King is behind it."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"flooded tunnels. The Rat",
+"King again. Ugh."
+]
+]
+},
+"brief_tit_ship": {
+"kind": "brief",
+"stage": "tit_ship",
+"hero": null,
+"speakers": {
+"casey": "CASEY"
+},
+"seeds": [
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"pirate galleon. Dirtbag and",
+"Groundchuck again. Ugh."
+]
+]
+},
+"brief_tit_southside": {
+"kind": "brief",
+"stage": "tit_southside",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in",
+"Southside New York. Karai",
+"is no ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"Karai has moved against us.",
+"Southside New York must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over Southside New York.",
+"Karai is behind it."
+],
+[
+"casey",
+"CASEY",
+"Bad news - Southside New",
+"York is a mess. Good news -",
+"I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in",
+"Southside New York. Karai",
+"again. Ugh."
+],
+[
+"splinter",
+"SPLINTER",
+"Karai has moved against us.",
+"Southside New York must not",
+"fall. As the sirens wail."
+]
+]
+},
+"brief_tit_starbase": {
+"kind": "brief",
+"stage": "tit_starbase",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"starbase. Antrax is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the starbase and secure the",
+"base. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Antrax has moved against",
+"us. The starbase must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the starbase. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the starbase. Antrax",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"starbase is crawling and",
+"Antrax is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the starbase is",
+"a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"starbase. Antrax again.",
+"Ugh."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"starbase. Antrax again.",
+"Ugh. In the pouring rain."
+]
+]
+},
+"brief_tit_technodrome": {
+"kind": "brief",
+"stage": "tit_technodrome",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"Technodrome. Krang is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"Krang has moved against us.",
+"The Technodrome must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the Technodrome. Krang",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"Technodrome is crawling and",
+"Krang is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the Technodrome",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"Technodrome. Krang again.",
+"Ugh."
+]
+]
+},
+"brief_tit_train": {
+"kind": "brief",
+"stage": "tit_train",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"old west train. Tora is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"Tora has moved against us.",
+"The old west train must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the old west train.",
+"Tora is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"old west train is crawling",
+"and Tora is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the old west",
+"train is a mess. Good news",
+"- I brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"old west train. Tora again.",
+"Ugh."
+],
+[
+"splinter",
+"SPLINTER",
+"Tora has moved against us.",
+"The old west train must not",
+"fall. In the pouring rain."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"old west train. Tora again.",
+"Ugh. In the dead of night."
+]
+]
+},
+"brief_train": {
+"kind": "brief",
+"stage": "train",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"night train. Karai is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the night train and reach",
+"the last car. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Karai has moved against us.",
+"The night train must not",
+"fall."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the night train. Karai",
+"is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"night train is crawling and",
+"Karai is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the night train",
+"is a mess. Good news - I",
+"brought a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"night train. Karai again.",
+"Ugh."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"night train. Karai again.",
+"Ugh. As the sirens wail."
+]
+]
+},
+"brief_van": {
+"kind": "brief",
+"stage": "van",
+"hero": null,
+"speakers": {
+"splinter": "SPLINTER",
+"april": "APRIL",
+"casey": "CASEY"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"I sense great danger in the",
+"highway. Chrome Dome is no",
+"ordinary foe."
+],
+[
+"splinter",
+"SPLINTER",
+"The Foot do not stop. Go to",
+"the highway and stop the",
+"convoy. Return alive."
+],
+[
+"splinter",
+"SPLINTER",
+"Chrome Dome has moved",
+"against us. The highway",
+"must not fall."
+],
+[
+"april",
+"APRIL",
+"Channel 6 just lost contact",
+"near the highway. Whatever",
+"is there, it is big."
+],
+[
+"april",
+"APRIL",
+"Guys - scanners light up",
+"over the highway. Chrome",
+"Dome is behind it."
+],
+[
+"april",
+"APRIL",
+"This is not a drill. The",
+"highway is crawling and",
+"Chrome Dome is in command."
+],
+[
+"casey",
+"CASEY",
+"Bad news - the highway is a",
+"mess. Good news - I brought",
+"a hockey stick."
+],
+[
+"casey",
+"CASEY",
+"Smells like trouble in the",
+"highway. Chrome Dome again.",
+"Ugh."
+]
+]
+},
+"close_don": {
+"kind": "close",
+"stage": null,
+"hero": "don",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Right. Execute the plan.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Theory is over. Time for",
+"practice.",
+""
+],
+[
+"hero",
+"HERO",
+"Staff ready. Let's go.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Let's hope my math holds",
+"up.",
+""
+],
+[
+"hero",
+"HERO",
+"Initiating. Stay sharp.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Okay - here goes nothing.",
+"",
+""
+]
+]
+},
+"close_leo": {
+"kind": "close",
+"stage": null,
+"hero": "leo",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Let's end this - clean and",
+"quick.",
+""
+],
+[
+"hero",
+"HERO",
+"For Sensei. For the city.",
+"Move out.",
+""
+],
+[
+"hero",
+"HERO",
+"Every step counts. Let's",
+"go.",
+""
+],
+[
+"hero",
+"HERO",
+"No hesitation. Strike true.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"We fight as brothers. Let's",
+"finish it.",
+""
+],
+[
+"hero",
+"HERO",
+"Steel yourselves. Here we",
+"go.",
+""
+]
+]
+},
+"close_mike": {
+"kind": "close",
+"stage": null,
+"hero": "mike",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Booyakasha! Let's do it!",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Time to crack some heads.",
+"And jokes.",
+""
+],
+[
+"hero",
+"HERO",
+"Pizza's waiting. Let's",
+"finish this.",
+""
+],
+[
+"hero",
+"HERO",
+"Nunchucks out - the party's",
+"starting!",
+""
+],
+[
+"hero",
+"HERO",
+"Let's roll, dudes!",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Stay awesome. And duck.",
+"",
+""
+]
+]
+},
+"close_raph": {
+"kind": "close",
+"stage": null,
+"hero": "raph",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Alright. Time to make some",
+"noise.",
+""
+],
+[
+"hero",
+"HERO",
+"Let's smash this place to",
+"pieces.",
+""
+],
+[
+"hero",
+"HERO",
+"Out of my way - I'm coming",
+"through.",
+""
+],
+[
+"hero",
+"HERO",
+"Come on then. Who's first?",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"I've got a few things to",
+"say with my sai.",
+""
+],
+[
+"hero",
+"HERO",
+"Showtime. Try to keep up.",
+"",
+""
+]
+]
+},
+"close_ronin": {
+"kind": "close",
+"stage": null,
+"hero": "ronin",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Then we end it.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"Let them come. I am ready.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"For those we have lost.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"No more running. No more",
+"regrets.",
+""
+],
+[
+"hero",
+"HERO",
+"One more fight. Then",
+"another.",
+""
+],
+[
+"hero",
+"HERO",
+"The shadows will remember",
+"tonight.",
+""
+]
+]
+},
+"cold_apartment": {
+"kind": "cold",
+"stage": "apartment",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at April's building!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Bebop and Rocksteady",
+"is at April's building.",
+"Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at April's building.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Bebop and",
+"Rocksteady at April's",
+"building."
+],
+[
+"casey",
+"CASEY",
+"Yo! Bebop and Rocksteady",
+"just hit April's building.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"April's building. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at April's building!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at April's building!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at April's",
+"building, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Bebop and Rocksteady stirs",
+"at April's building. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"April's building. It's",
+"Bebop and Rocksteady."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"April's building. Move out.",
+""
+]
+]
+},
+"cold_battleship": {
+"kind": "cold",
+"stage": "battleship",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: pirate",
+"crews at the battleship!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Dirtbag and",
+"Groundchuck is at the",
+"battleship. Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Pirate",
+"crews at the battleship.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Dirtbag",
+"and Groundchuck at the",
+"battleship."
+],
+[
+"casey",
+"CASEY",
+"Yo! Dirtbag and Groundchuck",
+"just hit the battleship.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Pirate crews are wrecking",
+"the battleship. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the battleship!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the battleship!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"battleship, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Dirtbag and Groundchuck",
+"stirs at the battleship.",
+"Go. Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the battleship. It's",
+"Dirtbag and Groundchuck."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Pirate crews",
+"at the battleship. Move",
+"out."
+]
+]
+},
+"cold_beach": {
+"kind": "cold",
+"stage": "beach",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"divers at the beach!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Armaggon is at the",
+"beach. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"divers at the beach.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Armaggon",
+"at the beach.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Armaggon just hit the",
+"beach. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot divers are wrecking",
+"the beach. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the beach!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the beach!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"beach, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Armaggon stirs at the",
+"beach. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the beach. It's Armaggon.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot divers at",
+"the beach. Move out.",
+""
+]
+]
+},
+"cold_construction": {
+"kind": "cold",
+"stage": "construction",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the construction",
+"yard!"
+],
+[
+"april",
+"APRIL",
+"Guys, Rahzar and Tokka is",
+"at the construction yard.",
+"Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the construction",
+"yard."
+],
+[
+"april",
+"APRIL",
+"I have footage of Rahzar",
+"and Tokka at the",
+"construction yard."
+],
+[
+"casey",
+"CASEY",
+"Yo! Rahzar and Tokka just",
+"hit the construction yard.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the construction yard. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the construction yard!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the construction yard!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"construction yard, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Rahzar and Tokka stirs at",
+"the construction yard. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the construction yard. It's",
+"Rahzar and Tokka."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the construction yard. Move",
+"out."
+]
+]
+},
+"cold_dimx": {
+"kind": "cold",
+"stage": "dimx",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Krang",
+"soldiers at Dimension X!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Antrax is at",
+"Dimension X. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Krang",
+"soldiers at Dimension X.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Antrax at",
+"Dimension X.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Antrax just hit",
+"Dimension X. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Krang soldiers are wrecking",
+"Dimension X. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at Dimension X!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at Dimension X!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at Dimension",
+"X, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Antrax stirs at Dimension",
+"X. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"Dimension X. It's Antrax.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Krang soldiers",
+"at Dimension X. Move out.",
+""
+]
+]
+},
+"cold_dojo": {
+"kind": "cold",
+"stage": "dojo",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"elite guards at the old",
+"dojo!"
+],
+[
+"april",
+"APRIL",
+"Guys, the Shogun is at the",
+"old dojo. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"elite guards at the old",
+"dojo."
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Shogun at the old dojo.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! The Shogun just hit the",
+"old dojo. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot elite guards are",
+"wrecking the old dojo. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the old dojo!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the old dojo!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the old",
+"dojo, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Shogun stirs at the old",
+"dojo. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the old dojo. It's the",
+"Shogun."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot elite",
+"guards at the old dojo.",
+"Move out."
+]
+]
+},
+"cold_foothideout": {
+"kind": "cold",
+"stage": "foothideout",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"elites at the Foot hideout!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Baxter Stockman is at",
+"the Foot hideout. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"elites at the Foot hideout.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Baxter",
+"Stockman at the Foot",
+"hideout."
+],
+[
+"casey",
+"CASEY",
+"Yo! Baxter Stockman just",
+"hit the Foot hideout. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Foot elites are wrecking",
+"the Foot hideout. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the Foot hideout!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the Foot hideout!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the Foot",
+"hideout, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Baxter Stockman stirs at",
+"the Foot hideout. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the Foot hideout. It's",
+"Baxter Stockman."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot elites at",
+"the Foot hideout. Move out.",
+""
+]
+]
+},
+"cold_junkyard": {
+"kind": "cold",
+"stage": "junkyard",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: scrap",
+"bots at the junkyard!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Rahzar and Tokka is",
+"at the junkyard. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Scrap",
+"bots at the junkyard.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Rahzar",
+"and Tokka at the junkyard.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Rahzar and Tokka just",
+"hit the junkyard. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Scrap bots are wrecking the",
+"junkyard. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the junkyard!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the junkyard!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"junkyard, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Rahzar and Tokka stirs at",
+"the junkyard. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the junkyard. It's Rahzar",
+"and Tokka."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Scrap bots at",
+"the junkyard. Move out.",
+""
+]
+]
+},
+"cold_krangcity": {
+"kind": "cold",
+"stage": "krangcity",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Krang",
+"androids at Krang City!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Krang is at Krang",
+"City. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Krang",
+"androids at Krang City.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Krang at",
+"Krang City.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Krang just hit Krang",
+"City. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Krang androids are wrecking",
+"Krang City. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at Krang City!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at Krang City!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at Krang",
+"City, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Krang stirs at Krang City.",
+"Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"Krang City. It's Krang.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Krang androids",
+"at Krang City. Move out.",
+""
+]
+]
+},
+"cold_mall": {
+"kind": "cold",
+"stage": "mall",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas and Triceratons at",
+"the mall!"
+],
+[
+"april",
+"APRIL",
+"Guys, the Triceraton is at",
+"the mall. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas and Triceratons at",
+"the mall."
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Triceraton at the mall.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! The Triceraton just hit",
+"the mall. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas and Triceratons",
+"are wrecking the mall. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the mall!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the mall!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the mall,",
+"my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Triceraton stirs at the",
+"mall. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the mall. It's the",
+"Triceraton."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas",
+"and Triceratons at the",
+"mall. Move out."
+]
+]
+},
+"cold_ratking": {
+"kind": "cold",
+"stage": "ratking",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: rats at",
+"the lower tunnels!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, the Rat King is at",
+"the lower tunnels. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Rats",
+"at the lower tunnels.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of the Rat",
+"King at the lower tunnels.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! The Rat King just hit",
+"the lower tunnels. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Rats are wrecking the lower",
+"tunnels. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the lower tunnels!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the lower tunnels!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the lower",
+"tunnels, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Rat King stirs at the",
+"lower tunnels. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the lower tunnels. It's the",
+"Rat King."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Rats at the",
+"lower tunnels. Move out.",
+""
+]
+]
+},
+"cold_rooftop2": {
+"kind": "cold",
+"stage": "rooftop2",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: mutants",
+"and Mousers at the",
+"rooftops!"
+],
+[
+"april",
+"APRIL",
+"Guys, Bebop and Rocksteady",
+"is at the rooftops. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up.",
+"Mutants and Mousers at the",
+"rooftops."
+],
+[
+"april",
+"APRIL",
+"I have footage of Bebop and",
+"Rocksteady at the rooftops.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Bebop and Rocksteady",
+"just hit the rooftops.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Mutants and Mousers are",
+"wrecking the rooftops. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the rooftops!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the rooftops!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"rooftops, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Bebop and Rocksteady stirs",
+"at the rooftops. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the rooftops. It's Bebop",
+"and Rocksteady."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Mutants and",
+"Mousers at the rooftops.",
+"Move out."
+]
+]
+},
+"cold_rooftops": {
+"kind": "cold",
+"stage": "rooftops",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the rooftops!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Slash is at the",
+"rooftops. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the rooftops.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Slash at",
+"the rooftops.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Slash just hit the",
+"rooftops. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the rooftops. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the rooftops!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the rooftops!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"rooftops, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Slash stirs at the",
+"rooftops. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the rooftops. It's Slash.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the rooftops. Move out.",
+""
+]
+]
+},
+"cold_sewers": {
+"kind": "cold",
+"stage": "sewers",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: mutated",
+"vermin at the sewers!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, the Pizza Monster is",
+"at the sewers. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up.",
+"Mutated vermin at the",
+"sewers."
+],
+[
+"april",
+"APRIL",
+"I have footage of the Pizza",
+"Monster at the sewers.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! The Pizza Monster just",
+"hit the sewers. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Mutated vermin are wrecking",
+"the sewers. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the sewers!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the sewers!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"sewers, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Pizza Monster stirs at",
+"the sewers. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the sewers. It's the Pizza",
+"Monster."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Mutated vermin",
+"at the sewers. Move out.",
+""
+]
+]
+},
+"cold_shredder": {
+"kind": "cold",
+"stage": "shredder",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"elites at the Shredder's",
+"tower!"
+],
+[
+"april",
+"APRIL",
+"Guys, the Shredder is at",
+"the Shredder's tower.",
+"Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"elites at the Shredder's",
+"tower."
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Shredder at the Shredder's",
+"tower."
+],
+[
+"casey",
+"CASEY",
+"Yo! The Shredder just hit",
+"the Shredder's tower. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Foot elites are wrecking",
+"the Shredder's tower. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the Shredder's tower!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the Shredder's tower!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"Shredder's tower, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Shredder stirs at the",
+"Shredder's tower. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the Shredder's tower. It's",
+"the Shredder."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot elites at",
+"the Shredder's tower. Move",
+"out."
+]
+]
+},
+"cold_snow": {
+"kind": "cold",
+"stage": "snow",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the snowfield!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Tora is at the",
+"snowfield. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the snowfield.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Tora at",
+"the snowfield.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Tora just hit the",
+"snowfield. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the snowfield. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the snowfield!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the snowfield!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"snowfield, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Tora stirs at the",
+"snowfield. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the snowfield. It's Tora.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the snowfield. Move out.",
+""
+]
+]
+},
+"cold_subway": {
+"kind": "cold",
+"stage": "subway",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the subway!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, the Shogun is at the",
+"subway. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the subway.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Shogun at the subway.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! The Shogun just hit the",
+"subway. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the subway. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the subway!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the subway!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"subway, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Shogun stirs at the",
+"subway. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the subway. It's the",
+"Shogun."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the subway. Move out.",
+""
+]
+]
+},
+"cold_swamps": {
+"kind": "cold",
+"stage": "swamps",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: mutated",
+"gators at the swamp!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Leatherhead is at the",
+"swamp. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up.",
+"Mutated gators at the",
+"swamp."
+],
+[
+"april",
+"APRIL",
+"I have footage of",
+"Leatherhead at the swamp.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Leatherhead just hit",
+"the swamp. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Mutated gators are wrecking",
+"the swamp. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the swamp!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the swamp!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"swamp, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Leatherhead stirs at the",
+"swamp. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the swamp. It's",
+"Leatherhead."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Mutated gators",
+"at the swamp. Move out.",
+""
+]
+]
+},
+"cold_tit_alley": {
+"kind": "cold",
+"stage": "tit_alley",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the back alleys!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Slash is at the back",
+"alleys. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the back alleys.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Slash at",
+"the back alleys.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Slash just hit the back",
+"alleys. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the back alleys. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the back alleys!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the back alleys!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the back",
+"alleys, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Slash stirs at the back",
+"alleys. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the back alleys. It's",
+"Slash."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the back alleys. Move out.",
+""
+]
+]
+},
+"cold_tit_arena": {
+"kind": "cold",
+"stage": "tit_arena",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"elites at the Technodrome",
+"arena!"
+],
+[
+"april",
+"APRIL",
+"Guys, the Shredder is at",
+"the Technodrome arena.",
+"Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"elites at the Technodrome",
+"arena."
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Shredder at the Technodrome",
+"arena."
+],
+[
+"casey",
+"CASEY",
+"Yo! The Shredder just hit",
+"the Technodrome arena.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Foot elites are wrecking",
+"the Technodrome arena. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the Technodrome arena!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the Technodrome arena!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"Technodrome arena, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Shredder stirs at the",
+"Technodrome arena. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the Technodrome arena. It's",
+"the Shredder."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot elites at",
+"the Technodrome arena. Move",
+"out."
+]
+]
+},
+"cold_tit_bigapple": {
+"kind": "cold",
+"stage": "tit_bigapple",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at the Big Apple at",
+"3 AM!"
+],
+[
+"april",
+"APRIL",
+"Guys, Bebop and Rocksteady",
+"is at the Big Apple at 3",
+"AM. Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at the Big Apple at",
+"3 AM."
+],
+[
+"april",
+"APRIL",
+"I have footage of Bebop and",
+"Rocksteady at the Big Apple",
+"at 3 AM."
+],
+[
+"casey",
+"CASEY",
+"Yo! Bebop and Rocksteady",
+"just hit the Big Apple at 3",
+"AM. Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"the Big Apple at 3 AM. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the Big Apple at 3 AM!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the Big Apple at 3 AM!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the Big",
+"Apple at 3 AM, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Bebop and Rocksteady stirs",
+"at the Big Apple at 3 AM.",
+"Go. Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the Big Apple at 3 AM. It's",
+"Bebop and Rocksteady."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"the Big Apple at 3 AM. Move",
+"out."
+]
+]
+},
+"cold_tit_prehist": {
+"kind": "cold",
+"stage": "tit_prehist",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: cavemen",
+"mutants at the prehistoric",
+"swamp!"
+],
+[
+"april",
+"APRIL",
+"Guys, the Triceraton is at",
+"the prehistoric swamp.",
+"Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up.",
+"Cavemen mutants at the",
+"prehistoric swamp."
+],
+[
+"april",
+"APRIL",
+"I have footage of the",
+"Triceraton at the",
+"prehistoric swamp."
+],
+[
+"casey",
+"CASEY",
+"Yo! The Triceraton just hit",
+"the prehistoric swamp.",
+"Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Cavemen mutants are",
+"wrecking the prehistoric",
+"swamp. Come on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the prehistoric swamp!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the prehistoric swamp!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"prehistoric swamp, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Triceraton stirs at the",
+"prehistoric swamp. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the prehistoric swamp. It's",
+"the Triceraton."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Cavemen",
+"mutants at the prehistoric",
+"swamp. Move out."
+]
+]
+},
+"cold_tit_sewersurf": {
+"kind": "cold",
+"stage": "tit_sewersurf",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: rats at",
+"the flooded tunnels!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, the Rat King is at",
+"the flooded tunnels. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Rats",
+"at the flooded tunnels.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of the Rat",
+"King at the flooded",
+"tunnels."
+],
+[
+"casey",
+"CASEY",
+"Yo! The Rat King just hit",
+"the flooded tunnels. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Rats are wrecking the",
+"flooded tunnels. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the flooded tunnels!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the flooded tunnels!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"flooded tunnels, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The Rat King stirs at the",
+"flooded tunnels. Go.",
+"Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the flooded tunnels. It's",
+"the Rat King."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Rats at the",
+"flooded tunnels. Move out.",
+""
+]
+]
+},
+"cold_tit_ship": {
+"kind": "cold",
+"stage": "tit_ship",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: pirate",
+"crews at the pirate",
+"galleon!"
+],
+[
+"april",
+"APRIL",
+"Guys, Dirtbag and",
+"Groundchuck is at the",
+"pirate galleon. Hurry!"
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Pirate",
+"crews at the pirate",
+"galleon."
+],
+[
+"april",
+"APRIL",
+"I have footage of Dirtbag",
+"and Groundchuck at the",
+"pirate galleon."
+],
+[
+"casey",
+"CASEY",
+"Yo! Dirtbag and Groundchuck",
+"just hit the pirate",
+"galleon. Bring gear."
+],
+[
+"casey",
+"CASEY",
+"Pirate crews are wrecking",
+"the pirate galleon. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the pirate galleon!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the pirate galleon!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"pirate galleon, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Dirtbag and Groundchuck",
+"stirs at the pirate",
+"galleon. Go. Listen."
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the pirate galleon. It's",
+"Dirtbag and Groundchuck."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Pirate crews",
+"at the pirate galleon. Move",
+"out."
+]
+]
+},
+"cold_tit_southside": {
+"kind": "cold",
+"stage": "tit_southside",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"ninjas at Southside New",
+"York!"
+],
+[
+"april",
+"APRIL",
+"Guys, Karai is at Southside",
+"New York. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"ninjas at Southside New",
+"York."
+],
+[
+"april",
+"APRIL",
+"I have footage of Karai at",
+"Southside New York.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Karai just hit",
+"Southside New York. Bring",
+"gear."
+],
+[
+"casey",
+"CASEY",
+"Foot ninjas are wrecking",
+"Southside New York. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at Southside New York!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at Southside New York!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at Southside",
+"New York, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Karai stirs at Southside",
+"New York. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"Southside New York. It's",
+"Karai."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot ninjas at",
+"Southside New York. Move",
+"out."
+]
+]
+},
+"cold_tit_starbase": {
+"kind": "cold",
+"stage": "tit_starbase",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Krang",
+"soldiers at the starbase!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Antrax is at the",
+"starbase. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Krang",
+"soldiers at the starbase.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Antrax at",
+"the starbase.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Antrax just hit the",
+"starbase. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Krang soldiers are wrecking",
+"the starbase. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the starbase!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the starbase!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"starbase, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Antrax stirs at the",
+"starbase. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the starbase. It's Antrax.",
+""
+],
+[
+"casey",
+"CASEY",
+"Rough night. Krang soldiers",
+"at the starbase. Move out.",
+""
+]
+]
+},
+"cold_tit_technodrome": {
+"kind": "cold",
+"stage": "tit_technodrome",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Krang",
+"soldiers at the",
+"Technodrome!"
+],
+[
+"april",
+"APRIL",
+"Guys, Krang is at the",
+"Technodrome. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Krang",
+"soldiers at the",
+"Technodrome."
+],
+[
+"april",
+"APRIL",
+"I have footage of Krang at",
+"the Technodrome.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Krang just hit the",
+"Technodrome. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Krang soldiers are wrecking",
+"the Technodrome. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the Technodrome!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the Technodrome!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"Technodrome, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Krang stirs at the",
+"Technodrome. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the Technodrome. It's",
+"Krang."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Krang soldiers",
+"at the Technodrome. Move",
+"out."
+]
+]
+},
+"cold_tit_train": {
+"kind": "cold",
+"stage": "tit_train",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"bandits at the old west",
+"train!"
+],
+[
+"april",
+"APRIL",
+"Guys, Tora is at the old",
+"west train. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"bandits at the old west",
+"train."
+],
+[
+"april",
+"APRIL",
+"I have footage of Tora at",
+"the old west train.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Tora just hit the old",
+"west train. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot bandits are wrecking",
+"the old west train. Come",
+"on!"
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the old west train!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the old west train!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the old",
+"west train, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Tora stirs at the old west",
+"train. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the old west train. It's",
+"Tora."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot bandits",
+"at the old west train. Move",
+"out."
+]
+]
+},
+"cold_train": {
+"kind": "cold",
+"stage": "train",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"soldiers at the night",
+"train!"
+],
+[
+"april",
+"APRIL",
+"Guys, Karai is at the night",
+"train. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"soldiers at the night",
+"train."
+],
+[
+"april",
+"APRIL",
+"I have footage of Karai at",
+"the night train.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Karai just hit the",
+"night train. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot soldiers are wrecking",
+"the night train. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the night train!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the night train!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the night",
+"train, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Karai stirs at the night",
+"train. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the night train. It's",
+"Karai."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot soldiers",
+"at the night train. Move",
+"out."
+]
+]
+},
+"cold_van": {
+"kind": "cold",
+"stage": "van",
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"irma": "IRMA",
+"vernon": "VERNON",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Live on Channel 6: Foot",
+"drivers at the highway!",
+""
+],
+[
+"april",
+"APRIL",
+"Guys, Chrome Dome is at the",
+"highway. Hurry!",
+""
+],
+[
+"april",
+"APRIL",
+"Scanner just lit up. Foot",
+"drivers at the highway.",
+""
+],
+[
+"april",
+"APRIL",
+"I have footage of Chrome",
+"Dome at the highway.",
+""
+],
+[
+"casey",
+"CASEY",
+"Yo! Chrome Dome just hit",
+"the highway. Bring gear.",
+""
+],
+[
+"casey",
+"CASEY",
+"Foot drivers are wrecking",
+"the highway. Come on!",
+""
+],
+[
+"irma",
+"IRMA",
+"April left a note. Trouble",
+"at the highway!",
+""
+],
+[
+"vernon",
+"VERNON",
+"A Fenwick exclusive: chaos",
+"at the highway!",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"I sense unrest at the",
+"highway, my sons.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Chrome Dome stirs at the",
+"highway. Go. Listen.",
+""
+],
+[
+"april",
+"APRIL",
+"Police say disturbance at",
+"the highway. It's Chrome",
+"Dome."
+],
+[
+"casey",
+"CASEY",
+"Rough night. Foot drivers",
+"at the highway. Move out.",
+""
+]
+]
+},
+"hurt_don": {
+"kind": "hurt",
+"stage": null,
+"hero": "don",
+"speakers": {
+"don": "DON"
+},
+"seeds": [
+[
+"don",
+"DON",
+"My calculations were off by",
+"a lot. Sorry.",
+""
+],
+[
+"don",
+"DON",
+"Okay, that tells me",
+"something. Give me a moment",
+"to think."
+],
+[
+"don",
+"DON",
+"They adapted. That means",
+"they're learning.",
+""
+],
+[
+"don",
+"DON",
+"I should have predicted",
+"that. Back to the lair.",
+""
+],
+[
+"don",
+"DON",
+"Retreat, then recalibrate.",
+"It's the scientific method.",
+""
+],
+[
+"don",
+"DON",
+"Bruises heal. Plans can be",
+"fixed.",
+""
+]
+]
+},
+"hurt_leo": {
+"kind": "hurt",
+"stage": null,
+"hero": "leo",
+"speakers": {
+"leo": "LEO"
+},
+"seeds": [
+[
+"leo",
+"LEO",
+"That didn't go as planned.",
+"Pull back, everyone.",
+""
+],
+[
+"leo",
+"LEO",
+"I misjudged them. It won't",
+"happen again.",
+""
+],
+[
+"leo",
+"LEO",
+"Regroup. We'll come back",
+"stronger and smarter.",
+""
+],
+[
+"leo",
+"LEO",
+"Retreat isn't defeat. It's",
+"the next move.",
+""
+],
+[
+"leo",
+"LEO",
+"We lost this round. We",
+"won't lose the next.",
+""
+],
+[
+"leo",
+"LEO",
+"Everyone breathe. We learn",
+"from this.",
+""
+]
+]
+},
+"hurt_mike": {
+"kind": "hurt",
+"stage": null,
+"hero": "mike",
+"speakers": {
+"mike": "MIKEY"
+},
+"seeds": [
+[
+"mike",
+"MIKEY",
+"Owww. That was not pizza.",
+"",
+""
+],
+[
+"mike",
+"MIKEY",
+"Okay, I'm okay! Everyone",
+"okay? Everyone okay!",
+""
+],
+[
+"mike",
+"MIKEY",
+"They're really good at",
+"being bad guys!",
+""
+],
+[
+"mike",
+"MIKEY",
+"Can we go home and eat?",
+"Then fight? Both?",
+""
+],
+[
+"mike",
+"MIKEY",
+"Not cool, dudes. Not cool.",
+"",
+""
+],
+[
+"mike",
+"MIKEY",
+"I'm not giving up. I just",
+"need a snack first.",
+""
+]
+]
+},
+"hurt_raph": {
+"kind": "hurt",
+"stage": null,
+"hero": "raph",
+"speakers": {
+"raph": "RAPH"
+},
+"seeds": [
+[
+"raph",
+"RAPH",
+"Ow. Okay. That one stung.",
+"",
+""
+],
+[
+"raph",
+"RAPH",
+"They got lucky. Next time",
+"they won't.",
+""
+],
+[
+"raph",
+"RAPH",
+"Don't say it, Leo. I know.",
+"I know.",
+""
+],
+[
+"raph",
+"RAPH",
+"I'm fine! I'm just angry.",
+"",
+""
+],
+[
+"raph",
+"RAPH",
+"Round one to them. Round",
+"two is mine.",
+""
+],
+[
+"raph",
+"RAPH",
+"That's the last time they",
+"touch my brothers.",
+""
+]
+]
+},
+"hurt_ronin": {
+"kind": "hurt",
+"stage": null,
+"hero": "ronin",
+"speakers": {
+"ronin": "RONIN"
+},
+"seeds": [
+[
+"ronin",
+"RONIN",
+"I have been hurt worse. Not",
+"by much.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Pain is only a reminder.",
+"",
+""
+],
+[
+"ronin",
+"RONIN",
+"We lost ground. We will",
+"take it back.",
+""
+],
+[
+"ronin",
+"RONIN",
+"I walked away from worse.",
+"So will you.",
+""
+],
+[
+"ronin",
+"RONIN",
+"They fight like they have",
+"nothing to lose. So do I.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Keep moving. Rest comes",
+"later.",
+""
+]
+]
+},
+"invest_don": {
+"kind": "invest",
+"stage": null,
+"hero": "don",
+"speakers": {
+"don": "DON"
+},
+"seeds": [
+[
+"don",
+"DON",
+"Interesting. The pattern",
+"suggests a deliberate",
+"setup."
+],
+[
+"don",
+"DON",
+"I'm picking up an energy",
+"signature. Faint, but",
+"traceable."
+],
+[
+"don",
+"DON",
+"Give me ten seconds. I can",
+"scan this area.",
+""
+],
+[
+"don",
+"DON",
+"Mikey, don't touch that. It",
+"might be a trap. Or",
+"valuable."
+],
+[
+"don",
+"DON",
+"The tracks lead here, but",
+"the weight distribution is",
+"wrong."
+],
+[
+"don",
+"DON",
+"If my calculations are",
+"right, we have minutes.",
+""
+],
+[
+"don",
+"DON",
+"There's a design to all",
+"this. It's too clean to be",
+"random."
+],
+[
+"don",
+"DON",
+"Hold on. I'm reading",
+"something. Hmm. That can't",
+"be right."
+]
+]
+},
+"invest_leo": {
+"kind": "invest",
+"stage": null,
+"hero": "leo",
+"speakers": {
+"leo": "LEO"
+},
+"seeds": [
+[
+"leo",
+"LEO",
+"Stay together and check",
+"every corner. Nobody goes",
+"off alone."
+],
+[
+"leo",
+"LEO",
+"Something doesn't add up.",
+"Look for tracks, signs of a",
+"struggle."
+],
+[
+"leo",
+"LEO",
+"Raph, left side. Don, scan",
+"the area. Mikey, stay",
+"close."
+],
+[
+"leo",
+"LEO",
+"If this is a trap, we need",
+"to know before we walk into",
+"it."
+],
+[
+"leo",
+"LEO",
+"The Foot never leave a mess",
+"unless they want us to find",
+"it."
+],
+[
+"leo",
+"LEO",
+"Eyes sharp. Whoever did",
+"this wanted to be noticed.",
+""
+],
+[
+"leo",
+"LEO",
+"Quiet now. Let the street",
+"tell us what happened.",
+""
+],
+[
+"leo",
+"LEO",
+"I need every one of you",
+"focused. No jokes. Not yet.",
+""
+]
+]
+},
+"invest_mike": {
+"kind": "invest",
+"stage": null,
+"hero": "mike",
+"speakers": {
+"mike": "MIKEY"
+},
+"seeds": [
+[
+"mike",
+"MIKEY",
+"Whoa. Dudes. This place is",
+"creepy and kinda cool.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Is anyone else hungry? No?",
+"Just me? Okay.",
+""
+],
+[
+"mike",
+"MIKEY",
+"I found something! Oh. It's",
+"a shoe. Gross.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Do you guys smell pizza?",
+"Because I smell pizza.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Okay, serious face. See?",
+"Serious.",
+""
+],
+[
+"mike",
+"MIKEY",
+"This is like a mystery",
+"movie, but we're the",
+"heroes!"
+],
+[
+"mike",
+"MIKEY",
+"I call dibs on the next",
+"clue. Or the next snack.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Booo! Ha! No? Okay, tough",
+"crowd.",
+""
+]
+]
+},
+"invest_raph": {
+"kind": "invest",
+"stage": null,
+"hero": "raph",
+"speakers": {
+"raph": "RAPH"
+},
+"seeds": [
+[
+"raph",
+"RAPH",
+"Look at this mess. Somebody",
+"wanted a fight and I am",
+"happy to oblige."
+],
+[
+"raph",
+"RAPH",
+"Leo, we've been sniffing",
+"around for ten minutes. Let",
+"me hit something."
+],
+[
+"raph",
+"RAPH",
+"This place stinks. Of Foot,",
+"of course.",
+""
+],
+[
+"raph",
+"RAPH",
+"If they're hiding, I'll",
+"drag them out.",
+""
+],
+[
+"raph",
+"RAPH",
+"Quit staring at tracks.",
+"Let's find a face to punch.",
+""
+],
+[
+"raph",
+"RAPH",
+"I hate waiting. Make a",
+"plan, Leo, or I'll make",
+"one."
+],
+[
+"raph",
+"RAPH",
+"Oh good, a clue. Nope,",
+"that's a soda can.",
+""
+],
+[
+"raph",
+"RAPH",
+"I've got a bad feeling and",
+"a good right hook.",
+""
+]
+]
+},
+"invest_ronin": {
+"kind": "invest",
+"stage": null,
+"hero": "ronin",
+"speakers": {
+"ronin": "RONIN"
+},
+"seeds": [
+[
+"ronin",
+"RONIN",
+"This place... I remember",
+"it. It was different then.",
+""
+],
+[
+"ronin",
+"RONIN",
+"The signs are old. They",
+"have been here a long time.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Stay quiet. They are",
+"listening.",
+""
+],
+[
+"ronin",
+"RONIN",
+"I have seen this before. It",
+"ended badly.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Take care. The past follows",
+"us.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Every step costs something.",
+"Choose carefully.",
+""
+],
+[
+"ronin",
+"RONIN",
+"The wind carries ash. Be",
+"ready.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Nothing here is as it",
+"seems.",
+""
+]
+]
+},
+"lair_don": {
+"kind": "lair",
+"stage": null,
+"hero": "don",
+"speakers": {
+"don": "DON"
+},
+"seeds": [
+[
+"don",
+"DON",
+"I've been analyzing their",
+"pattern. They always repeat",
+"themselves."
+],
+[
+"don",
+"DON",
+"Check this out: a",
+"prototype. It might also",
+"explode."
+],
+[
+"don",
+"DON",
+"Their weak spot is in the",
+"center. It's right there on",
+"my screen."
+],
+[
+"don",
+"DON",
+"I built a few gadgets. One",
+"of them is an umbrella.",
+"Don't ask."
+],
+[
+"don",
+"DON",
+"Give me a few minutes. I",
+"can crack their signal.",
+""
+],
+[
+"don",
+"DON",
+"Here's the map. We can come",
+"in through the back.",
+""
+],
+[
+"don",
+"DON",
+"I fixed the Turtle Cycle.",
+"And added a cupholder.",
+""
+],
+[
+"don",
+"DON",
+"The data says we win.",
+"Barely. But we win.",
+""
+]
+]
+},
+"lair_splinter": {
+"kind": "lair",
+"stage": null,
+"hero": "splinter",
+"speakers": {
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"splinter",
+"SPLINTER",
+"Every defeat holds a",
+"lesson. What did you learn",
+"today?"
+],
+[
+"splinter",
+"SPLINTER",
+"A fist is only as strong as",
+"the mind behind it.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The reed that bends",
+"survives the storm.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Fear is a teacher. Do not",
+"let it become your master.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Anger is a fire. Use it to",
+"warm, not to burn.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"You fight for each other.",
+"That is your greatest",
+"strength."
+],
+[
+"splinter",
+"SPLINTER",
+"Patience, my sons. The",
+"right moment will come.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Observe before you strike.",
+"Always observe.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Together, you are more than",
+"four turtles.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Rest, then train. Tomorrow",
+"you are stronger.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"A true warrior knows when",
+"to retreat, and when to",
+"return."
+],
+[
+"splinter",
+"SPLINTER",
+"Trust one another. That is",
+"the only plan that matters.",
+""
+]
+]
+},
+"react_don": {
+"kind": "react",
+"stage": null,
+"hero": "don",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"I've mapped the route. Two",
+"exits and one weak point.",
+""
+],
+[
+"hero",
+"HERO",
+"By my calculations the odds",
+"are in our favor. Slightly.",
+""
+],
+[
+"hero",
+"HERO",
+"I'll run the numbers while",
+"you take the front.",
+""
+],
+[
+"hero",
+"HERO",
+"Interesting. The pattern",
+"here is not random.",
+""
+],
+[
+"hero",
+"HERO",
+"Give me thirty seconds and",
+"I'll find their weakness.",
+""
+],
+[
+"hero",
+"HERO",
+"Logistically this is a mess",
+"- but manageable.",
+""
+],
+[
+"hero",
+"HERO",
+"Everyone stay behind the",
+"staff line. I'll cover the",
+"rear."
+],
+[
+"hero",
+"HERO",
+"Acceptable risk. Let's",
+"proceed.",
+""
+]
+]
+},
+"react_leo": {
+"kind": "react",
+"stage": null,
+"hero": "leo",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Understood. We move as one",
+"team. Stay focused.",
+""
+],
+[
+"hero",
+"HERO",
+"Plan is simple: stick",
+"together and watch each",
+"other's backs."
+],
+[
+"hero",
+"HERO",
+"I'll take point. Everyone",
+"else cover the flanks.",
+""
+],
+[
+"hero",
+"HERO",
+"We've trained for this.",
+"Trust the discipline.",
+""
+],
+[
+"hero",
+"HERO",
+"Honor demands we finish",
+"what they started.",
+""
+],
+[
+"hero",
+"HERO",
+"Keep your guard up. Nobody",
+"falls behind.",
+""
+],
+[
+"hero",
+"HERO",
+"Sensei's counting on us. We",
+"won't fail him.",
+""
+],
+[
+"hero",
+"HERO",
+"Eyes open. They want us",
+"rushed - so we won't be.",
+""
+]
+]
+},
+"react_mike": {
+"kind": "react",
+"stage": null,
+"hero": "mike",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Dudes, this is gonna be",
+"totally awesome. Or totally",
+"terrible!"
+],
+[
+"hero",
+"HERO",
+"I vote we order pizza",
+"after. Everyone agree?",
+""
+],
+[
+"hero",
+"HERO",
+"I'm ready - bring on the",
+"bad guys!",
+""
+],
+[
+"hero",
+"HERO",
+"Cowabunga. I mean...",
+"carefully, cowabunga.",
+""
+],
+[
+"hero",
+"HERO",
+"This night just got more",
+"interesting.",
+""
+],
+[
+"hero",
+"HERO",
+"Who wants to bet I get the",
+"most hits?",
+""
+],
+[
+"hero",
+"HERO",
+"Don't worry. I've got a",
+"joke for every goon.",
+""
+],
+[
+"hero",
+"HERO",
+"They'll never see us",
+"coming. Mostly because I'm",
+"hilarious."
+]
+]
+},
+"react_raph": {
+"kind": "react",
+"stage": null,
+"hero": "raph",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"Finally something to hit. I",
+"was getting bored.",
+""
+],
+[
+"hero",
+"HERO",
+"Plan? Walk in and break",
+"everything that moves.",
+""
+],
+[
+"hero",
+"HERO",
+"Sure. I'll handle the loud",
+"part.",
+""
+],
+[
+"hero",
+"HERO",
+"Everyone relax. I've got",
+"this. Mostly.",
+""
+],
+[
+"hero",
+"HERO",
+"They picked the wrong night",
+"to mess with us.",
+""
+],
+[
+"hero",
+"HERO",
+"Less talking. More hitting.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"If they want a fight, I'm",
+"happy to oblige.",
+""
+],
+[
+"hero",
+"HERO",
+"Don't wait up. I'm going in",
+"swinging.",
+""
+]
+]
+},
+"react_ronin": {
+"kind": "react",
+"stage": null,
+"hero": "ronin",
+"speakers": {
+"hero": "HERO"
+},
+"seeds": [
+[
+"hero",
+"HERO",
+"I have seen this before. It",
+"ends in ash.",
+""
+],
+[
+"hero",
+"HERO",
+"Stay close. I will not lose",
+"another.",
+""
+],
+[
+"hero",
+"HERO",
+"Words will not help us.",
+"Steel will.",
+""
+],
+[
+"hero",
+"HERO",
+"I walk this road alone -",
+"but I am glad you are with",
+"me."
+],
+[
+"hero",
+"HERO",
+"They will fall. Quietly.",
+"",
+""
+],
+[
+"hero",
+"HERO",
+"The shadows are on our side",
+"tonight.",
+""
+],
+[
+"hero",
+"HERO",
+"I made a promise. I intend",
+"to keep it.",
+""
+],
+[
+"hero",
+"HERO",
+"This is only the beginning.",
+"",
+""
+]
+]
+},
+"resolve_don": {
+"kind": "resolve",
+"stage": null,
+"hero": "don",
+"speakers": {
+"don": "DON"
+},
+"seeds": [
+[
+"don",
+"DON",
+"I can build a counter.",
+"It'll take an hour.",
+""
+],
+[
+"don",
+"DON",
+"Got it. A prototype, but",
+"it'll work. Probably.",
+""
+],
+[
+"don",
+"DON",
+"The weak point is the power",
+"source. We hit it hard.",
+""
+],
+[
+"don",
+"DON",
+"Give me a minute and a",
+"soldering iron.",
+""
+],
+[
+"don",
+"DON",
+"I've got a gadget that will",
+"even the odds.",
+""
+],
+[
+"don",
+"DON",
+"The math finally works.",
+"Let's go.",
+""
+]
+]
+},
+"resolve_leo": {
+"kind": "resolve",
+"stage": null,
+"hero": "leo",
+"speakers": {
+"leo": "LEO"
+},
+"seeds": [
+[
+"leo",
+"LEO",
+"Splinter is right. We",
+"rushed in. Now we plan.",
+""
+],
+[
+"leo",
+"LEO",
+"Don, build it. Raph, hold",
+"the line. We strike",
+"together."
+],
+[
+"leo",
+"LEO",
+"I will lead. But I'll",
+"listen first.",
+""
+],
+[
+"leo",
+"LEO",
+"Honor is in the next step,",
+"not the last one.",
+""
+],
+[
+"leo",
+"LEO",
+"We finish this tonight.",
+"Together.",
+""
+],
+[
+"leo",
+"LEO",
+"I've got the plan. Let's",
+"go.",
+""
+]
+]
+},
+"resolve_mike": {
+"kind": "resolve",
+"stage": null,
+"hero": "mike",
+"speakers": {
+"mike": "MIKEY"
+},
+"seeds": [
+[
+"mike",
+"MIKEY",
+"I've got a plan! Step one:",
+"pizza. Step two: win!",
+""
+],
+[
+"mike",
+"MIKEY",
+"Let's do this. For pizza",
+"and honor!",
+""
+],
+[
+"mike",
+"MIKEY",
+"Okay okay, now I'm ready.",
+"Bring it!",
+""
+],
+[
+"mike",
+"MIKEY",
+"Sensei, we got this.",
+"Mostly.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Cowabunga time, dudes.",
+"Let's go.",
+""
+],
+[
+"mike",
+"MIKEY",
+"I'll be the distraction.",
+"I'm very good at that.",
+""
+]
+]
+},
+"resolve_raph": {
+"kind": "resolve",
+"stage": null,
+"hero": "raph",
+"speakers": {
+"raph": "RAPH"
+},
+"seeds": [
+[
+"raph",
+"RAPH",
+"Fine. We do it your way.",
+"But I'm hitting first.",
+""
+],
+[
+"raph",
+"RAPH",
+"Donnie, make it loud. I",
+"like loud.",
+""
+],
+[
+"raph",
+"RAPH",
+"Sensei's right. I hate that",
+"he's right.",
+""
+],
+[
+"raph",
+"RAPH",
+"Let's go finish what they",
+"started.",
+""
+],
+[
+"raph",
+"RAPH",
+"I'll cover the left. Don't",
+"make me say it twice.",
+""
+],
+[
+"raph",
+"RAPH",
+"Bring it. All of it.",
+"",
+""
+]
+]
+},
+"resolve_ronin": {
+"kind": "resolve",
+"stage": null,
+"hero": "ronin",
+"speakers": {
+"ronin": "RONIN"
+},
+"seeds": [
+[
+"ronin",
+"RONIN",
+"Splinter would have wanted",
+"this done right.",
+""
+],
+[
+"ronin",
+"RONIN",
+"I will finish it. Alone, if",
+"I must.",
+""
+],
+[
+"ronin",
+"RONIN",
+"The plan is simple. I have",
+"done it before.",
+""
+],
+[
+"ronin",
+"RONIN",
+"I have carried this too",
+"long. Not tonight.",
+""
+],
+[
+"ronin",
+"RONIN",
+"Stand with me. Then fall",
+"back if you must.",
+""
+],
+[
+"ronin",
+"RONIN",
+"End it. That is all.",
+"",
+""
+]
+]
+},
+"setback1": {
+"kind": "setback1",
+"stage": null,
+"hero": null,
+"speakers": {
+"foot": "FOOT NINJA"
+},
+"seeds": [
+[
+"foot",
+"FOOT NINJA",
+"You fight well, turtles.",
+"But you are outnumbered.",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Retreat? You will never",
+"leave here alive.",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Your friends are ours now.",
+"Bring the nets!",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"The master was right. You",
+"are predictable.",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"Hold them! Do not let them",
+"reach the exit!",
+""
+],
+[
+"foot",
+"FOOT NINJA",
+"You were lucky once. Not",
+"twice.",
+""
+]
+]
+},
+"side1": {
+"kind": "side1",
+"stage": null,
+"hero": null,
+"speakers": {
+"mike": "MIKEY",
+"raph": "RAPH"
+},
+"seeds": [
+[
+"mike",
+"MIKEY",
+"Dude, is there a pizza",
+"place nearby? Asking for a",
+"hero."
+],
+[
+"mike",
+"MIKEY",
+"I'm just saying, we could",
+"stop for one slice. One!",
+""
+],
+[
+"raph",
+"RAPH",
+"Leo, we should just go in",
+"loud. Why are we sneaking?",
+""
+],
+[
+"raph",
+"RAPH",
+"Plan? What plan? We hit",
+"them first.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Hey, do heroes get to eat",
+"on the job? Asking for me.",
+""
+],
+[
+"raph",
+"RAPH",
+"I've got a better idea than",
+"yours, Leo.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Look, a pizza box! It's",
+"empty. Sad.",
+""
+],
+[
+"raph",
+"RAPH",
+"If I wait any longer, I'll",
+"start swinging at shadows.",
+""
+],
+[
+"mike",
+"MIKEY",
+"I smell cheese. Is it",
+"coming from the bad guys?",
+""
+],
+[
+"raph",
+"RAPH",
+"You're too slow, Leo. We",
+"should have moved already.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Quick question. If we win,",
+"does that count as lunch?",
+""
+],
+[
+"raph",
+"RAPH",
+"I don't take orders from a",
+"guy who loses at tag.",
+""
+]
+]
+},
+"side2": {
+"kind": "side2",
+"stage": null,
+"hero": null,
+"speakers": {
+"leo": "LEO",
+"don": "DON"
+},
+"seeds": [
+[
+"leo",
+"LEO",
+"Mikey, focus. The pizza",
+"will still be there later.",
+""
+],
+[
+"leo",
+"LEO",
+"Raph, we go in smart or we",
+"don't go in at all.",
+""
+],
+[
+"don",
+"DON",
+"Guys, I'm trying to",
+"concentrate. Thank you.",
+""
+],
+[
+"don",
+"DON",
+"Technically, Raph's",
+"approach has a higher",
+"chance of failure."
+],
+[
+"leo",
+"LEO",
+"Both of you, enough. We",
+"have a mission.",
+""
+],
+[
+"don",
+"DON",
+"That's a valid concern, but",
+"let's do the math first.",
+""
+],
+[
+"leo",
+"LEO",
+"Raph, I know you're angry.",
+"Use it. Don't let it use",
+"you."
+],
+[
+"don",
+"DON",
+"Mikey, that's not a clue.",
+"That's a sandwich.",
+""
+],
+[
+"leo",
+"LEO",
+"Stay in formation. I mean",
+"it.",
+""
+],
+[
+"don",
+"DON",
+"If you two keep arguing,",
+"the Foot will hear us.",
+""
+]
+]
+},
+"taunt_antrax": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"antrax": "ANTRAX"
+},
+"seeds": [
+[
+"antrax",
+"ANTRAX",
+"Another trophy for Krang's",
+"collection.",
+""
+],
+[
+"antrax",
+"ANTRAX",
+"Fools. This dimension is",
+"mine.",
+""
+],
+[
+"antrax",
+"ANTRAX",
+"You will serve Krang.",
+"",
+""
+],
+[
+"antrax",
+"ANTRAX",
+"Resistance is futile!",
+"",
+""
+]
+]
+},
+"taunt_armaggon": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"armaggon": "ARMAGGON"
+},
+"seeds": [
+[
+"armaggon",
+"ARMAGGON",
+"I have faced a hundred of",
+"you.",
+""
+],
+[
+"armaggon",
+"ARMAGGON",
+"You cannot hurt me.",
+"",
+""
+],
+[
+"armaggon",
+"ARMAGGON",
+"I am inevitable.",
+"",
+""
+],
+[
+"armaggon",
+"ARMAGGON",
+"Time bends to my will.",
+"",
+""
+]
+]
+},
+"taunt_baxter": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"baxter": "BAXTER"
+},
+"seeds": [
+[
+"baxter",
+"BAXTER",
+"My greatest creation awaits",
+"you!",
+""
+],
+[
+"baxter",
+"BAXTER",
+"You cannot stop progress,",
+"turtles!",
+""
+],
+[
+"baxter",
+"BAXTER",
+"Observe! The future of",
+"robotics!",
+""
+],
+[
+"baxter",
+"BAXTER",
+"Bzzz - you are pests to be",
+"removed!",
+""
+]
+]
+},
+"taunt_bebop": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"bebop": "BEBOP"
+},
+"seeds": [
+[
+"bebop",
+"BEBOP",
+"Ha ha! Smashin' time!",
+"",
+""
+],
+[
+"bebop",
+"BEBOP",
+"Hey, Rocksteady - dinner's",
+"here!",
+""
+],
+[
+"bebop",
+"BEBOP",
+"You turtles are going down!",
+"",
+""
+],
+[
+"bebop",
+"BEBOP",
+"This is gonna be fun!",
+"",
+""
+]
+]
+},
+"taunt_chrome": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"chrome": "CHROME"
+},
+"seeds": [
+[
+"chrome",
+"CHROME",
+"Calculating odds... zero.",
+"",
+""
+],
+[
+"chrome",
+"CHROME",
+"Resistance is inefficient.",
+"",
+""
+],
+[
+"chrome",
+"CHROME",
+"Prepare to be disassembled.",
+"",
+""
+],
+[
+"chrome",
+"CHROME",
+"Systems online. Target",
+"acquired.",
+""
+]
+]
+},
+"taunt_dirtbag": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"dirtbag": "DIRTBAG"
+},
+"seeds": [
+[
+"dirtbag",
+"DIRTBAG",
+"Welcome aboard! Now walk",
+"the plank!",
+""
+],
+[
+"dirtbag",
+"DIRTBAG",
+"You turtles are all washed",
+"up!",
+""
+],
+[
+"dirtbag",
+"DIRTBAG",
+"Arr! No one escapes me",
+"crew!",
+""
+],
+[
+"dirtbag",
+"DIRTBAG",
+"The sea claims all fools!",
+"",
+""
+]
+]
+},
+"taunt_karai": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"karai": "KARAI"
+},
+"seeds": [
+[
+"karai",
+"KARAI",
+"You should not have",
+"followed me.",
+""
+],
+[
+"karai",
+"KARAI",
+"Loyalty is a blade - and I",
+"am sharp.",
+""
+],
+[
+"karai",
+"KARAI",
+"The Foot does not forgive.",
+"",
+""
+],
+[
+"karai",
+"KARAI",
+"Come then. Show me your",
+"resolve.",
+""
+]
+]
+},
+"taunt_krang": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"krang": "KRANG"
+},
+"seeds": [
+[
+"krang",
+"KRANG",
+"Impossible! My perfect body",
+"cannot fail!",
+""
+],
+[
+"krang",
+"KRANG",
+"You are puny! I will crush",
+"your world!",
+""
+],
+[
+"krang",
+"KRANG",
+"Your planet will be mine!",
+"",
+""
+],
+[
+"krang",
+"KRANG",
+"Bow before the might of",
+"Krang!",
+""
+]
+]
+},
+"taunt_leatherhead": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"leatherhead": "LEATHERHEAD"
+},
+"seeds": [
+[
+"leatherhead",
+"LEATHERHEAD",
+"The beast hungers! Stay",
+"away!",
+""
+],
+[
+"leatherhead",
+"LEATHERHEAD",
+"I cannot control it... run!",
+"",
+""
+],
+[
+"leatherhead",
+"LEATHERHEAD",
+"My friends... please... go!",
+"",
+""
+],
+[
+"leatherhead",
+"LEATHERHEAD",
+"The swamp is mine!",
+"",
+""
+]
+]
+},
+"taunt_pizza": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"pizza": "PIZZA"
+},
+"seeds": [
+[
+"pizza",
+"PIZZA",
+"Hungry... so hungry... feed",
+"me!",
+""
+],
+[
+"pizza",
+"PIZZA",
+"Little turtles make tasty",
+"snacks!",
+""
+],
+[
+"pizza",
+"PIZZA",
+"You look delicious!",
+"",
+""
+],
+[
+"pizza",
+"PIZZA",
+"No one leaves my kitchen",
+"alive!",
+""
+]
+]
+},
+"taunt_rahzar": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"rahzar": "RAHZAR"
+},
+"seeds": [
+[
+"rahzar",
+"RAHZAR",
+"Fresh meat! Time to hunt!",
+"",
+""
+],
+[
+"rahzar",
+"RAHZAR",
+"Rahzar will tear you apart!",
+"",
+""
+],
+[
+"rahzar",
+"RAHZAR",
+"Run, little turtles! Run!",
+"",
+""
+],
+[
+"rahzar",
+"RAHZAR",
+"The moon makes me strong!",
+"",
+""
+]
+]
+},
+"taunt_ratking": {
+"kind": "taunt",
+"stage": "ratking",
+"hero": null,
+"speakers": {
+"ratking": "RAT"
+},
+"seeds": [
+[
+"ratking",
+"RAT",
+"Bow before the king of the",
+"underworld!",
+""
+],
+[
+"ratking",
+"RAT",
+"My rats will pick your",
+"bones clean!",
+""
+],
+[
+"ratking",
+"RAT",
+"This is my kingdom - you",
+"are trespassing!",
+""
+],
+[
+"ratking",
+"RAT",
+"Kneel, little turtles!",
+"",
+""
+]
+]
+},
+"taunt_rocksteady": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"rocksteady": "ROCKSTEADY"
+},
+"seeds": [
+[
+"rocksteady",
+"ROCKSTEADY",
+"Turtles! You will not stop",
+"us!",
+""
+],
+[
+"rocksteady",
+"ROCKSTEADY",
+"I will crush you with my",
+"bare hands!",
+""
+],
+[
+"rocksteady",
+"ROCKSTEADY",
+"Another round, shell-heads?",
+"",
+""
+],
+[
+"rocksteady",
+"ROCKSTEADY",
+"Pain is coming for you!",
+"",
+""
+]
+]
+},
+"taunt_shogun": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"shogun": "SHOGUN"
+},
+"seeds": [
+[
+"shogun",
+"SHOGUN",
+"Your clan is a stain on",
+"honor.",
+""
+],
+[
+"shogun",
+"SHOGUN",
+"Come, children. I will",
+"teach you respect.",
+""
+],
+[
+"shogun",
+"SHOGUN",
+"I will end this dishonor.",
+"",
+""
+],
+[
+"shogun",
+"SHOGUN",
+"Tradition demands your",
+"defeat.",
+""
+]
+]
+},
+"taunt_shredder": {
+"kind": "taunt",
+"stage": "shredder",
+"hero": null,
+"speakers": {
+"shredder": "SHREDDER"
+},
+"seeds": [
+[
+"shredder",
+"SHREDDER",
+"Come to me, turtle.",
+"",
+""
+],
+[
+"shredder",
+"SHREDDER",
+"The last Hamato dies",
+"tonight.",
+""
+],
+[
+"shredder",
+"SHREDDER",
+"Show me what a lifetime of",
+"training has made.",
+""
+],
+[
+"shredder",
+"SHREDDER",
+"You are too late.",
+"Everything ends here.",
+""
+]
+]
+},
+"taunt_slash": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"slash": "SLASH"
+},
+"seeds": [
+[
+"slash",
+"SLASH",
+"Nobody walks my roof",
+"without paying the toll!",
+""
+],
+[
+"slash",
+"SLASH",
+"You brought a knife to a",
+"mutant fight?",
+""
+],
+[
+"slash",
+"SLASH",
+"I'm gonna enjoy this one!",
+"",
+""
+],
+[
+"slash",
+"SLASH",
+"Turtle soup tonight, boys!",
+"",
+""
+]
+]
+},
+"taunt_tokka": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"tokka": "TOKKA"
+},
+"seeds": [
+[
+"tokka",
+"TOKKA",
+"You are the intruder.",
+"",
+""
+],
+[
+"tokka",
+"TOKKA",
+"This is our hunting ground.",
+"",
+""
+],
+[
+"tokka",
+"TOKKA",
+"Tokka does not forgive.",
+"",
+""
+],
+[
+"tokka",
+"TOKKA",
+"You will not leave!",
+"",
+""
+]
+]
+},
+"taunt_tora": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"tora": "TORA"
+},
+"seeds": [
+[
+"tora",
+"TORA",
+"Cold feet, turtle?",
+"",
+""
+],
+[
+"tora",
+"TORA",
+"The Shredder's will is my",
+"will.",
+""
+],
+[
+"tora",
+"TORA",
+"You will not leave this",
+"place.",
+""
+],
+[
+"tora",
+"TORA",
+"I have been waiting for",
+"you.",
+""
+]
+]
+},
+"taunt_triceraton": {
+"kind": "taunt",
+"stage": null,
+"hero": null,
+"speakers": {
+"triceraton": "TRICERATON"
+},
+"seeds": [
+[
+"triceraton",
+"TRICERATON",
+"Soft earthlings! Your world",
+"will bow!",
+""
+],
+[
+"triceraton",
+"TRICERATON",
+"The Triceraton empire does",
+"not fall!",
+""
+],
+[
+"triceraton",
+"TRICERATON",
+"You are weak. Your planet",
+"is weak.",
+""
+],
+[
+"triceraton",
+"TRICERATON",
+"Surrender or perish!",
+"",
+""
+]
+]
+},
+"twist_1": {
+"kind": "twist",
+"stage": null,
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"Wait - another signal just",
+"appeared nearby. Something",
+"else is moving in the dark."
+],
+[
+"casey",
+"CASEY",
+"Uh guys, did anyone else",
+"hear that noise behind us?",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Be careful. There is more",
+"here than you can see.",
+""
+],
+[
+"april",
+"APRIL",
+"Power just cut out across",
+"the block. We're on our",
+"own."
+],
+[
+"casey",
+"CASEY",
+"Found a trail of footprints",
+"leading the wrong way.",
+"Might be a trap."
+],
+[
+"splinter",
+"SPLINTER",
+"I feel a second presence.",
+"Do not split up.",
+""
+]
+]
+},
+"twist_2": {
+"kind": "twist",
+"stage": null,
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"New problem. Someone is",
+"jamming my comm. I may lose",
+"you."
+],
+[
+"casey",
+"CASEY",
+"Heads up - reinforcements",
+"spotted. A lot of them.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"This is a distraction. The",
+"real danger is elsewhere.",
+""
+],
+[
+"april",
+"APRIL",
+"There's a hostage in there.",
+"Be careful what you break.",
+""
+],
+[
+"casey",
+"CASEY",
+"Cops are blocking the",
+"street. We go in quiet or",
+"not at all."
+],
+[
+"splinter",
+"SPLINTER",
+"They know we are coming.",
+"Expect traps.",
+""
+]
+]
+},
+"twist_3": {
+"kind": "twist",
+"stage": null,
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"It's worse than we thought.",
+"They're building something",
+"big in there."
+],
+[
+"casey",
+"CASEY",
+"Two entrances, both",
+"guarded. Pick your poison.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"My sons - the enemy has",
+"learned our moves. Fight",
+"differently."
+],
+[
+"april",
+"APRIL",
+"Satellite shows a second",
+"team sneaking up behind",
+"you."
+],
+[
+"casey",
+"CASEY",
+"Everything's wired to blow.",
+"Don't touch anything shiny.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"Do not underestimate them.",
+"They came prepared.",
+""
+]
+]
+},
+"twist_4": {
+"kind": "twist",
+"stage": null,
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"This is bigger than the",
+"Foot now. The whole city is",
+"in danger."
+],
+[
+"casey",
+"CASEY",
+"Man, there's gotta be a",
+"hundred of them. Okay -",
+"maybe forty."
+],
+[
+"splinter",
+"SPLINTER",
+"Darkness gathers. Remember",
+"your training and trust",
+"each other."
+],
+[
+"april",
+"APRIL",
+"Evacuations are failing.",
+"You are our only hope.",
+""
+],
+[
+"casey",
+"CASEY",
+"They took a friend of ours.",
+"I will not forgive that.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"The enemy fights with",
+"desperation. Be wary.",
+""
+]
+]
+},
+"twist_5": {
+"kind": "twist",
+"stage": null,
+"hero": null,
+"speakers": {
+"april": "APRIL",
+"casey": "CASEY",
+"splinter": "SPLINTER"
+},
+"seeds": [
+[
+"april",
+"APRIL",
+"This is it. Everything we",
+"have is on you now.",
+""
+],
+[
+"casey",
+"CASEY",
+"No backup. No exit. Just us",
+"and them.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"If I do not see you",
+"again... know that I am",
+"proud."
+],
+[
+"april",
+"APRIL",
+"The whole city is watching.",
+"Don't let them down.",
+""
+],
+[
+"casey",
+"CASEY",
+"One last fight. Make it",
+"count, guys.",
+""
+],
+[
+"splinter",
+"SPLINTER",
+"This is the end of the",
+"road. Fight with everything",
+"you have."
+]
+]
+},
+"win_joke": {
+"kind": "win_joke",
+"stage": null,
+"hero": null,
+"speakers": {
+"raph": "RAPH",
+"mike": "MIKEY",
+"leo": "LEO",
+"don": "DON"
+},
+"seeds": [
+[
+"raph",
+"RAPH",
+"Next time, let's skip the",
+"part where I get hit.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Today I learned: bad guys",
+"hate pizza. I don't get it.",
+""
+],
+[
+"leo",
+"LEO",
+"Good work, everyone. Even",
+"Raph.",
+""
+],
+[
+"don",
+"DON",
+"Statistically, we should",
+"have lost. I'm not",
+"complaining."
+],
+[
+"raph",
+"RAPH",
+"That wasn't a fight. That",
+"was a warm-up.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Cowabunga! Er, I mean...",
+"nice job, team.",
+""
+],
+[
+"leo",
+"LEO",
+"Another night, another",
+"victory. Get some rest.",
+""
+],
+[
+"don",
+"DON",
+"I'm already working on an",
+"upgrade. Don't ask what.",
+""
+],
+[
+"raph",
+"RAPH",
+"Same time tomorrow? I'll",
+"bring the muscle.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Group hug! Come on, you",
+"know you want one.",
+""
+]
+]
+},
+"win_pizza": {
+"kind": "win_pizza",
+"stage": null,
+"hero": null,
+"speakers": {
+"mike": "MIKEY",
+"casey": "CASEY",
+"april": "APRIL"
+},
+"seeds": [
+[
+"mike",
+"MIKEY",
+"Pizza time! Victory pizza!",
+"The best kind of pizza!",
+""
+],
+[
+"mike",
+"MIKEY",
+"Who wants the last slice?",
+"Me. I do. Sorry, it's me.",
+""
+],
+[
+"casey",
+"CASEY",
+"I brought the pies. Don't",
+"say I never do anything for",
+"you."
+],
+[
+"april",
+"APRIL",
+"I got the story, and a",
+"pizza. Good night.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Extra cheese for the",
+"heroes! Extra extra cheese!",
+""
+],
+[
+"casey",
+"CASEY",
+"Another win for the books.",
+"Pass the pepperoni.",
+""
+],
+[
+"april",
+"APRIL",
+"The city's safe. For",
+"tonight, anyway.",
+""
+],
+[
+"mike",
+"MIKEY",
+"Hot, cheesy, and well-",
+"earned. Dig in!",
+""
+]
+]
+}
+},
+"stages": {
+"sewers": {
+"place": "the sewers",
+"enemies": "mutated vermin",
+"hazard": "the toxic runoff",
+"boss": "the Pizza Monster",
+"boss_short": "PIZZA MONSTER",
+"tier": 1,
+"objective": "clear the tunnels"
+},
+"ratking": {
+"place": "the lower tunnels",
+"enemies": "rats",
+"hazard": "the swarms",
+"boss": "the Rat King",
+"boss_short": "RAT KING",
+"tier": 1,
+"objective": "break the swarm"
+},
+"rooftops": {
+"place": "the rooftops",
+"enemies": "Foot ninjas",
+"hazard": "the long drop",
+"boss": "Slash",
+"boss_short": "SLASH",
+"tier": 1,
+"objective": "take back the skyline"
+},
+"snow": {
+"place": "the snowfield",
+"enemies": "Foot ninjas",
+"hazard": "the freezing wind",
+"boss": "Tora",
+"boss_short": "TORA",
+"tier": 1,
+"objective": "follow the tracks"
+},
+"van": {
+"place": "the highway",
+"enemies": "Foot drivers",
+"hazard": "the traffic",
+"boss": "Chrome Dome",
+"boss_short": "CHROME DOME",
+"tier": 2,
+"objective": "stop the convoy"
+},
+"apartment": {
+"place": "April's building",
+"enemies": "Foot ninjas",
+"hazard": "the narrow halls",
+"boss": "Bebop and Rocksteady",
+"boss_short": "BEBOP",
+"tier": 2,
+"objective": "clear every floor"
+},
+"train": {
+"place": "the night train",
+"enemies": "Foot soldiers",
+"hazard": "the speed",
+"boss": "Karai",
+"boss_short": "KARAI",
+"tier": 2,
+"objective": "reach the last car"
+},
+"swamps": {
+"place": "the swamp",
+"enemies": "mutated gators",
+"hazard": "the deep mud",
+"boss": "Leatherhead",
+"boss_short": "LEATHERHEAD",
+"tier": 2,
+"objective": "find our friend"
+},
+"construction": {
+"place": "the construction yard",
+"enemies": "Foot ninjas",
+"hazard": "the falling steel",
+"boss": "Rahzar and Tokka",
+"boss_short": "RAHZAR",
+"tier": 3,
+"objective": "open the mutant pen"
+},
+"junkyard": {
+"place": "the junkyard",
+"enemies": "scrap bots",
+"hazard": "the scrap heaps",
+"boss": "Rahzar and Tokka",
+"boss_short": "TOKKA",
+"tier": 3,
+"objective": "cut their supply line"
+},
+"battleship": {
+"place": "the battleship",
+"enemies": "pirate crews",
+"hazard": "the open deck",
+"boss": "Dirtbag and Groundchuck",
+"boss_short": "DIRTBAG",
+"tier": 3,
+"objective": "seize the helm"
+},
+"foothideout": {
+"place": "the Foot hideout",
+"enemies": "Foot elites",
+"hazard": "the traps",
+"boss": "Baxter Stockman",
+"boss_short": "BAXTER",
+"tier": 3,
+"objective": "smash the lab"
+},
+"subway": {
+"place": "the subway",
+"enemies": "Foot ninjas",
+"hazard": "the dark tunnels",
+"boss": "the Shogun",
+"boss_short": "SHOGUN",
+"tier": 3,
+"objective": "restore the line"
+},
+"mall": {
+"place": "the mall",
+"enemies": "Foot ninjas and Triceratons",
+"hazard": "the glass",
+"boss": "the Triceraton",
+"boss_short": "TRICERATON",
+"tier": 4,
+"objective": "free the hostages"
+},
+"rooftop2": {
+"place": "the rooftops",
+"enemies": "mutants and Mousers",
+"hazard": "the Bubble Copter",
+"boss": "Bebop and Rocksteady",
+"boss_short": "ROCKSTEADY",
+"tier": 4,
+"objective": "ground the copter"
+},
+"dimx": {
+"place": "Dimension X",
+"enemies": "Krang soldiers",
+"hazard": "the alien terrain",
+"boss": "Antrax",
+"boss_short": "ANTRAX",
+"tier": 4,
+"objective": "stop the invasion"
+},
+"dojo": {
+"place": "the old dojo",
+"enemies": "Foot elite guards",
+"hazard": "the fire",
+"boss": "the Shogun",
+"boss_short": "SHOGUN",
+"tier": 4,
+"objective": "reclaim the dojo"
+},
+"beach": {
+"place": "the beach",
+"enemies": "Foot divers",
+"hazard": "the storm surf",
+"boss": "Armaggon",
+"boss_short": "ARMAGGON",
+"tier": 4,
+"objective": "end the time loop"
+},
+"krangcity": {
+"place": "Krang City",
+"enemies": "Krang androids",
+"hazard": "the neon streets",
+"boss": "Krang",
+"boss_short": "KRANG",
+"tier": 5,
+"objective": "take the head off the snake"
+},
+"shredder": {
+"place": "the Shredder's tower",
+"enemies": "Foot elites",
+"hazard": "the endless stairs",
+"boss": "the Shredder",
+"boss_short": "SHREDDER",
+"tier": 5,
+"objective": "end it tonight"
+},
+"tit_bigapple": {
+"place": "the Big Apple at 3 AM",
+"enemies": "Foot ninjas",
+"hazard": "the steel girders",
+"boss": "Bebop and Rocksteady",
+"boss_short": "BEBOP",
+"tier": 1,
+"objective": "cross the bridge"
+},
+"tit_alley": {
+"place": "the back alleys",
+"enemies": "Foot ninjas",
+"hazard": "the dumpsters",
+"boss": "Slash",
+"boss_short": "SLASH",
+"tier": 1,
+"objective": "clear the alley"
+},
+"tit_sewersurf": {
+"place": "the flooded tunnels",
+"enemies": "rats",
+"hazard": "the rushing water",
+"boss": "the Rat King",
+"boss_short": "RAT",
+"tier": 2,
+"objective": "ride out the storm drain"
+},
+"tit_train": {
+"place": "the old west train",
+"enemies": "Foot bandits",
+"hazard": "the speeding cars",
+"boss": "Tora",
+"boss_short": "TORA",
+"tier": 3,
+"objective": "reach the last car"
+},
+"tit_ship": {
+"place": "the pirate galleon",
+"enemies": "pirate crews",
+"hazard": "the open deck",
+"boss": "Dirtbag and Groundchuck",
+"boss_short": "DIRTBAG",
+"tier": 3,
+"objective": "seize the wheel"
+},
+"tit_prehist": {
+"place": "the prehistoric swamp",
+"enemies": "cavemen mutants",
+"hazard": "the lava vents",
+"boss": "the Triceraton",
+"boss_short": "TRICERATON",
+"tier": 4,
+"objective": "survive the swamp"
+},
+"tit_starbase": {
+"place": "the starbase",
+"enemies": "Krang soldiers",
+"hazard": "the airlocks",
+"boss": "Antrax",
+"boss_short": "ANTRAX",
+"tier": 4,
+"objective": "secure the base"
+},
+"tit_technodrome": {
+"place": "the Technodrome",
+"enemies": "Krang soldiers",
+"hazard": "the energy gates",
+"boss": "Krang",
+"boss_short": "KRANG",
+"tier": 5,
+"objective": "take the head off the Technodrome"
+},
+"tit_arena": {
+"place": "the Technodrome arena",
+"enemies": "Foot elites",
+"hazard": "the open arena",
+"boss": "the Shredder",
+"boss_short": "SHREDDER",
+"tier": 5,
+"objective": "end the Shredder"
+},
+"tit_southside": {
+"place": "Southside New York",
+"enemies": "Foot ninjas",
+"hazard": "the speeding traffic",
+"boss": "Karai",
+"boss_short": "KARAI",
+"tier": 3,
+"objective": "take back the street"
+}
+},
+"bible": {
+"rules": [
+"Voice target: classic cartoon episodes (Saturday-morning cadence, sincere, a bit comic, kid-friendly stakes with Last Ronin undertone).",
+"Write original lines only; never copy lines from any show.",
+"Max 3 rows x 27 chars per bubble, uppercase friendly, no profanity.",
+"Every episode: cold open, a problem, a twist, a boss taunt, a close with a lesson or a joke."
+],
+"characters": {
+"leo": {
+"name": "Leonardo",
+"voice": "Calm, formal, a leader who rallies the team. Short commands, duty and honor, quiet worry underneath.",
+"traits": "disciplined, responsible, over-protective of his brothers",
+"relationships": "Raph argues with him; Splinter is his guide; looks to Ronin as a warning of what he could become",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"raph": {
+"name": "Raphael",
+"voice": "Blunt, sarcastic, hot-headed, fast one-liners; secretly loyal and protective.",
+"traits": "tough, angry, funny when cornered",
+"relationships": "Needles Leo; teases Mikey but defends him; trusts Casey",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"don": {
+"name": "Donatello",
+"voice": "Technical and curious; explains things in a few words, mutters about gadgets, dry humor.",
+"traits": "inventor, cautious, brainy",
+"relationships": "Fixes everything for his brothers; has a soft spot for April",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"mike": {
+"name": "Michelangelo",
+"voice": "Cheerful, goofy, pizza jokes, upbeat even in danger; sudden sincerity when it matters.",
+"traits": "free-spirited, loyal, underestimated",
+"relationships": "Brother-hugger of the group; best buddy of Casey",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"ronin": {
+"name": "The Last Ronin",
+"voice": "Quiet, weary, few words. Dark, spare, haunted by loss; flashes of the old turtle underneath.",
+"traits": "survivor, lone avenger, protective of the past",
+"relationships": "Speaks to the others like a ghost of what could be; respects Splinter's memory",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"splinter": {
+"name": "Master Splinter",
+"voice": "Wise, patient, measured; speaks in short teaching lines and proverbs, never rushes.",
+"traits": "father, sensei, firm but warm",
+"relationships": "Guides all four; sometimes worries openly",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"april": {
+"name": "April O'Neil",
+"voice": "Quick, curious reporter voice; urgent updates, bright but brave.",
+"traits": "journalist, resourceful, brave",
+"relationships": "Friend to the turtles; feeds them intel from the city",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"casey": {
+"name": "Casey Jones",
+"voice": "Rough city vigilante, jokes and hockey puns, tough talker with a good heart.",
+"traits": "vigilante, loyal, reckless",
+"relationships": "Raph's partner in trouble; April's protector",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"shredder": {
+"name": "The Shredder",
+"voice": "Cold, formal, menacing; few words, absolute certainty.",
+"traits": "ruthless master of the Foot",
+"relationships": "Rival to Splinter; commands Karai and the Foot",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"krang": {
+"name": "Krang",
+"voice": "Shrill, scheming, bossy, theatrical; obsessed with conquering Earth.",
+"traits": "schemer from Dimension X",
+"relationships": "Dismisses his underlings; allied with the Shredder when it suits him",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"karai": {
+"name": "Karai",
+"voice": "Sharp and elegant, conflicted loyalties, cool and precise.",
+"traits": "blade of the Foot, torn",
+"relationships": "Complicated bond with the turtles and Shredder",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"bebop": {
+"name": "Bebop",
+"voice": "Dumb-funny street-slang mutant warthog, loves smashing things, loyal duo.",
+"traits": "comic thug",
+"relationships": "Pairs with Rocksteady",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"rocksteady": {
+"name": "Rocksteady",
+"voice": "Gruff rhino mutant, stiff military talk, slightly smarter and more serious than Bebop.",
+"traits": "comic thug",
+"relationships": "Pairs with Bebop",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"slash": {
+"name": "Slash",
+"voice": "Gruff solo brute, hates company, pride and bad temper, an unwilling antihero.",
+"traits": "mutant loner",
+"relationships": "Fights anyone who walks his turf",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"baxter": {
+"name": "Baxter Stockman",
+"voice": "Gloating mad scientist, snide, in love with his inventions.",
+"traits": "genius, petty",
+"relationships": "Resents failing; mouser factory",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"ratking": {
+"name": "Rat King",
+"voice": "Rambling, eerie, speaks to rats, odd cheer.",
+"traits": "unhinged",
+"relationships": "Calls rats to attack",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"leatherhead": {
+"name": "Leatherhead",
+"voice": "Deep, courtly, polite when himself, anguished when overtaken.",
+"traits": "gentle, tragic",
+"relationships": "Friend of the turtles; struggles with the mutagen",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"tora": {
+"name": "Tora",
+"voice": "Cold, mocking, patient predator.",
+"traits": "Foot protege",
+"relationships": "Resents Splinter",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"shogun": {
+"name": "Shogun",
+"voice": "Old-world honor, stately, heavy tradition.",
+"traits": "Foot elder",
+"relationships": "Looks down on the turtles' clan",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"rahzar": {
+"name": "Rahzar",
+"voice": "Snarling growls, short bursts.",
+"traits": "mutant brute",
+"relationships": "Fights with Tokka",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"tokka": {
+"name": "Tokka",
+"voice": "Slow, deep, few words, like a mountain.",
+"traits": "mutant brute",
+"relationships": "Fights with Rahzar",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"triceraton": {
+"name": "Triceraton",
+"voice": "Booming conqueror, calls Earth weak.",
+"traits": "alien soldier",
+"relationships": "Serves the Triceraton empire",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"antrax": {
+"name": "Antrax",
+"voice": "Smooth, collecting trophies, snide.",
+"traits": "Dimension X hunter",
+"relationships": "Serves Krang",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"chrome": {
+"name": "Chrome Dome",
+"voice": "Monotone robot, cold math, computing odds.",
+"traits": "Foot robot",
+"relationships": "Shredder's machine",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"pizza": {
+"name": "Pizza Monster",
+"voice": "Hungry growls, food jokes.",
+"traits": "mutant glutton",
+"relationships": "Terrorises the sewers",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"dirtbag": {
+"name": "Dirtbag",
+"voice": "Jovial pirate mole, sea jokes.",
+"traits": "mutant sailor",
+"relationships": "Partner of Groundchuck",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"groundchuck": {
+"name": "Groundchuck",
+"voice": "Gruff bully, bullish talk.",
+"traits": "mutant brute",
+"relationships": "Partner of Dirtbag",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"irma": {
+"name": "Irma",
+"voice": "Perky assistant, helpful but frazzled.",
+"traits": "April's coworker",
+"relationships": "Reports from Channel 6",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"vernon": {
+"name": "Vernon",
+"voice": "Pushy reporter, self-important.",
+"traits": "news anchor",
+"relationships": "Wants the scoop",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"usagi": {
+"name": "Usagi",
+"voice": "Calm ronin rabbit, brief and honorable.",
+"traits": "wandering samurai",
+"relationships": "Mutual respect with Leo",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"armaggon": {
+"name": "Armaggon",
+"voice": "Booming bounty hunter, theatrical menace.",
+"traits": "villain",
+"relationships": "Hunts the turtles",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+},
+"foot": {
+"name": "Foot Soldier",
+"voice": "Terse, barking orders in groups.",
+"traits": "nameless",
+"relationships": "Serves the Shredder",
+"avoid": "modern slang overload, swearing, long speeches, breaking the 4th wall"
+}
+}
+}
+}

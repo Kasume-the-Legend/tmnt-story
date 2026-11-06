@@ -1,0 +1,1 @@
+{"name":"tmnt-story","private":true,"type":"module","scripts":{"deploy":"wrangler deploy","test":"node test/lines.test.mjs"},"devDependencies":{"wrangler":"^4.158.0"}}

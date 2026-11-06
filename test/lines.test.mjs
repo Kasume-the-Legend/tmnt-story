@@ -1,0 +1,13 @@
+import assert from "node:assert";
+import { checkLine, wrap, gameLine, parseArray, poolFile } from "../src/lines.js";
+assert.deepEqual(wrap("Stay together and check every corner. Nobody goes off alone."), ["Stay together and check","every corner. Nobody goes","off alone."]);
+assert.equal(wrap("Supercalifragilisticexpialidocious is a very long word indeed"), null);
+assert.equal(wrap("x ".repeat(60)), null);
+assert.equal(checkLine("leo", "What the hell is that thing?", ["leo"]), null);
+assert.equal(checkLine("raph", "Fine by me.", ["leo"]), null);
+assert.ok(checkLine("leo", "Raph, take the left side. Don, scan the area.", ["leo"]));
+assert.equal(gameLine("leo", "LEO", ["Stay together", "and look", ""]), "say leo LEO Stay_together and_look -");
+assert.equal(parseArray('Sure!\n```json\n[{"speaker":"a","text":"hi there friend"}]\n```').length, 1);
+assert.equal(parseArray('[{"speaker":"a","text":"ok ok ok ok"},{"speaker":"b","text":"broken').length, 1);
+assert.equal(poolFile(["a","a","b"]), "2\na\nb\n");
+console.log("lines ok");

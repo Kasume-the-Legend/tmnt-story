@@ -1,0 +1,17 @@
+name = "tmnt-story"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+[ai]
+binding = "AI"
+
+[[durable_objects.bindings]]
+name = "STORE"
+class_name = "StoryStore"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["StoryStore"]
+
+[triggers]
+crons = ["*/30 * * * *"]
